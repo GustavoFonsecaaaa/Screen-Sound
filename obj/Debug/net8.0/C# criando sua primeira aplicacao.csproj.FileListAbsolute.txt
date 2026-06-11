@@ -1,0 +1,14 @@
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/bin/Debug/net8.0/C# criando sua primeira aplicacao
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/bin/Debug/net8.0/C# criando sua primeira aplicacao.deps.json
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/bin/Debug/net8.0/C# criando sua primeira aplicacao.runtimeconfig.json
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/bin/Debug/net8.0/C# criando sua primeira aplicacao.dll
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/bin/Debug/net8.0/C# criando sua primeira aplicacao.pdb
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/C# criando sua primeira aplicacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/C# criando sua primeira aplicacao.AssemblyInfoInputs.cache
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/C# criando sua primeira aplicacao.AssemblyInfo.cs
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/C# criando sua primeira aplicacao.csproj.CoreCompileInputs.cache
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/C# criando sua primeira aplicacao.dll
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/refint/C# criando sua primeira aplicacao.dll
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/C# criando sua primeira aplicacao.pdb
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/C# criando sua primeira aplicacao.genruntimeconfig.cache
+/home/gustavo/Cursos da Alura/C# criando sua primeira aplicacao/obj/Debug/net8.0/ref/C# criando sua primeira aplicacao.dll

@@ -1,0 +1,30 @@
+﻿internal class Program
+{
+    static void ExibirMensagemDeBoasVindas()  //Funcao de boas vindas onde contem o tiutlo da aplicacao
+    {
+       Console.WriteLine(@"                               
+       
+░██████╗░█████╗░██████╗░███████╗███████╗███╗░░██╗  ░██████╗░█████╗░██╗░░░██╗███╗░░██╗██████╗░
+██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝████╗░██║  ██╔════╝██╔══██╗██║░░░██║████╗░██║██╔══██╗
+╚█████╗░██║░░╚═╝██████╔╝█████╗░░█████╗░░██╔██╗██║  ╚█████╗░██║░░██║██║░░░██║██╔██╗██║██║░░██║
+░╚═══██╗██║░░██╗██╔══██╗██╔══╝░░██╔══╝░░██║╚████║  ░╚═══██╗██║░░██║██║░░░██║██║╚████║██║░░██║
+██████╔╝╚█████╔╝██║░░██║███████╗███████╗██║░╚███║  ██████╔╝╚█████╔╝╚██████╔╝██║░╚███║██████╔╝
+╚═════╝░░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚══╝  ╚═════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝╚═════╝░
+       ");
+       Console.WriteLine("Seja bem vindo ao Screen Sound");
+    }                                   
+
+    static void ExibirOpcoesDoMenu()
+    {
+        Console.WriteLine("\nDigite 1 para registrar uma banda");
+        Console.WriteLine("\nDigite 2 para mostrar todas bandas");
+        Console.WriteLine("\nDigite 3 para avaliar uma banda");
+        Console.WriteLine("\nDigite 4 para exibir a média de uma banda");
+        Console.WriteLine("\nDigite -1 para sair");
+    }
+    private static void Main(string[] args)
+    {
+        ExibirMensagemDeBoasVindas();
+        ExibirOpcoesDoMenu();
+    }
+}
