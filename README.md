@@ -24,4 +24,4 @@ Como este é um projeto de console .NET, você precisa ter o SDK do .NET instala
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/GustavoFonsecaaaa/Screen-Sound.git](https://github.com/GustavoFonsecaaaa/Screen-Sound.git)
+   git clone https://github.com/GustavoFonsecaaaa/Screen-Sound.git
